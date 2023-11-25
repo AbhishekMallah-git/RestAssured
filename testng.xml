@@ -4,6 +4,11 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="Day01.FirstGetRequest"/>
+      <class name="Day02.Test_PatchMethod"/>
+      <class name="Day02.Test_GetMethod"/>
+      <class name="Day02.Test_PostMethod"/>
+      <class name="Day02.Test_DeleteMethod"/>
+      <class name="Day02.Test_PutMethod"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
